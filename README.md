@@ -1,1 +1,1 @@
-# barra-de-pesquisa-animada
+# 🔍•Barra de Pesquisa Animada
